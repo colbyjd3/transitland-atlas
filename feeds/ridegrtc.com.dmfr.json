@@ -1,12 +1,13 @@
 {
-  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.5.0.json",
+  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.5.1.json",
   "feeds": [
     {
       "id": "f-grtc~va",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://ridegrtc.com/media/routes/gtfs.zip",
+        "static_current": "https://www.ridegrtc.com/wp-content/uploads/2025/02/gtfs.zip",
         "static_historic": [
+          "https://ridegrtc.com/media/routes/gtfs.zip",
           "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/grtc.zip"
         ]
       },

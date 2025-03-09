@@ -23,7 +23,7 @@ Includes feeds in the following data specifications (specs):
 
 - [GTFS](https://gtfs.org/reference/static)
 - [GTFS Realtime](https://gtfs.org/reference/realtime/v2/)
-- [GBFS](https://github.com/NABSA/gbfs) - automatically synchronized from https://github.com/NABSA/gbfs/blob/master/systems.csv
+- [GBFS](https://github.com/MobilityData/gbfs) - automatically synchronized from https://github.com/MobilityData/gbfs/blob/master/systems.csv
 - [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - automatically synchronized from https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/providers.csv
 
 ## How to Add a New Feed
@@ -89,6 +89,12 @@ Rules for Onestop IDs in this repository:
 - Geohash part is optional
 - Name can include any alphanumeric characters in UTF-8
 - The only separation or punctuation character allowed in the name component is a tilde (`~`)
+
+## Enriching Transitland Atlas with external reference data
+
+We welcome help from the community to expand Transitland Atlas by reviewing external reference datasets, including:
+
+- [NTD GTFS Weblinks](./external-data-for-reference/ntd-gtfs-weblinks/readme.md)
 
 ## License
 

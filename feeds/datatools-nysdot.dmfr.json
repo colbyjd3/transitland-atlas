@@ -1,5 +1,5 @@
 {
-  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.5.0.json",
+  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.5.1.json",
   "feeds": [
     {
       "id": "f-academy~express~staten~island",
@@ -123,7 +123,10 @@
       "id": "f-chemung~c~tran",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://s3.amazonaws.com/datatools-511ny/public/Chemung_C_Tran.zip"
+        "static_current": "https://s3.amazonaws.com/datatools-511ny/public/Chemung_C_TRAN.zip",
+        "static_historic": [
+          "https://s3.amazonaws.com/datatools-511ny/public/Chemung_C_Tran.zip"
+        ]
       },
       "license": {
         "url": "https://data.ny.gov/download/77gx-ii52/application/pdf",
@@ -591,7 +594,10 @@
       "id": "f-hudson~rail~link",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://s3.amazonaws.com/datatools-511ny/public/Hudson_Rail_Link.zip"
+        "static_current": "https://s3.amazonaws.com/datatools-511ny/public/Hudson_Rail_Link.zip",
+        "static_historic": [
+          "https://data.trilliumtransit.com/gtfs/mnrraillink-ny-us/mnrraillink-ny-us.zip"
+        ]
       },
       "license": {
         "url": "https://data.ny.gov/download/77gx-ii52/application/pdf",
@@ -773,7 +779,17 @@
         "create_derived_product": "yes",
         "commercial_use_allowed": "yes",
         "share_alike_optional": "yes"
-      }
+      },
+      "operators": [
+        {
+          "onestop_id": "o-dr75f-middletownareatransit",
+          "name": "Middletown Area Transit",
+          "website": "https://www.ridetransitorange.com/middletown",
+          "tags": {
+            "us_ntd_id": "20216"
+          }
+        }
+      ]
     },
     {
       "id": "f-monroe~bus~lines~kiryas~joel~ny",
@@ -801,20 +817,6 @@
       "spec": "gtfs",
       "urls": {
         "static_current": "https://s3.amazonaws.com/datatools-511ny/public/Newburgh_Beacon_Shuttle.zip"
-      },
-      "license": {
-        "url": "https://data.ny.gov/download/77gx-ii52/application/pdf",
-        "use_without_attribution": "yes",
-        "create_derived_product": "yes",
-        "commercial_use_allowed": "yes",
-        "share_alike_optional": "yes"
-      }
-    },
-    {
-      "id": "f-newburgh~bus",
-      "spec": "gtfs",
-      "urls": {
-        "static_current": "https://oc-otp-gtfs.s3.amazonaws.com/newburgh.zip"
       },
       "license": {
         "url": "https://data.ny.gov/download/77gx-ii52/application/pdf",

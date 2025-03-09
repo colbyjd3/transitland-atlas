@@ -1,5 +1,5 @@
 {
-  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.5.0.json",
+  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.5.1.json",
   "feeds": [
     {
       "id": "f-9qx5-suntran",
@@ -71,12 +71,7 @@
         "static_current": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/bethesdacirculator-md-us.zip"
       },
       "license": {
-        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md",
-        "use_without_attribution": "yes",
-        "create_derived_product": "yes",
-        "redistribution_allowed": "yes",
-        "commercial_use_allowed": "no",
-        "share_alike_optional": "yes"
+        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md"
       }
     },
     {
@@ -88,12 +83,7 @@
         ]
       },
       "license": {
-        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md",
-        "use_without_attribution": "yes",
-        "create_derived_product": "yes",
-        "redistribution_allowed": "yes",
-        "commercial_use_allowed": "no",
-        "share_alike_optional": "yes"
+        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md"
       }
     },
     {
@@ -105,12 +95,7 @@
         ]
       },
       "license": {
-        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md",
-        "use_without_attribution": "yes",
-        "create_derived_product": "yes",
-        "redistribution_allowed": "yes",
-        "commercial_use_allowed": "no",
-        "share_alike_optional": "yes"
+        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md"
       },
       "operators": [
         {
@@ -170,36 +155,6 @@
       ]
     },
     {
-      "id": "f-dqf3-shoretransit",
-      "spec": "gtfs",
-      "urls": {
-        "static_current": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/shore-transit-md-us.zip",
-        "static_historic": [
-          "https://github.com/mobilityequity/maryland-local-gtfs/raw/master/Shore_GTFS.zip"
-        ]
-      },
-      "license": {
-        "url": "https://github.com/mobilityequity/maryland-local-gtfs/blob/master/README.md",
-        "use_without_attribution": "no",
-        "create_derived_product": "yes",
-        "commercial_use_allowed": "yes",
-        "share_alike_optional": "yes",
-        "attribution_instructions": "when using MTI data or software in projects, maps, etc.; you agree to acknowledge MTI as a data source (https://mti.umd.edu/)."
-      },
-      "operators": [
-        {
-          "onestop_id": "o-dqf3-shoretransit",
-          "name": "Shore Transit",
-          "website": "http://www.shoretransit.org/Home.aspx",
-          "tags": {
-            "twitter_general": "ShoreTransit",
-            "us_ntd_id": "30096",
-            "wikidata_id": "Q16984591"
-          }
-        }
-      ]
-    },
-    {
       "id": "f-dubai~rta",
       "spec": "gtfs",
       "urls": {
@@ -251,12 +206,7 @@
         ]
       },
       "license": {
-        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md",
-        "use_without_attribution": "yes",
-        "create_derived_product": "yes",
-        "redistribution_allowed": "yes",
-        "commercial_use_allowed": "no",
-        "share_alike_optional": "yes"
+        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md"
       }
     },
     {
@@ -268,12 +218,7 @@
         ]
       },
       "license": {
-        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md",
-        "use_without_attribution": "yes",
-        "create_derived_product": "yes",
-        "redistribution_allowed": "yes",
-        "commercial_use_allowed": "no",
-        "share_alike_optional": "yes"
+        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md"
       },
       "operators": [
         {
@@ -282,38 +227,6 @@
           "tags": {
             "twitter_general": "lvmonorail",
             "wikidata_id": "Q935072"
-          }
-        }
-      ]
-    },
-    {
-      "id": "f-piercecountyferries~wa~us",
-      "spec": "gtfs",
-      "urls": {
-        "static_historic": [
-          "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/piercecountyferries-wa-us.zip"
-        ]
-      },
-      "license": {
-        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md",
-        "use_without_attribution": "yes",
-        "create_derived_product": "yes",
-        "redistribution_allowed": "yes",
-        "commercial_use_allowed": "no",
-        "share_alike_optional": "yes"
-      },
-      "operators": [
-        {
-          "onestop_id": "o-c22u3-piercecountyferries",
-          "name": "Pierce County Ferries",
-          "associated_feeds": [
-            {
-              "gtfs_agency_id": "1777"
-            }
-          ],
-          "tags": {
-            "us_ntd_id": "00028",
-            "wikidata_id": "Q7606736"
           }
         }
       ]
@@ -348,12 +261,7 @@
         ]
       },
       "license": {
-        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md",
-        "use_without_attribution": "yes",
-        "create_derived_product": "yes",
-        "redistribution_allowed": "yes",
-        "commercial_use_allowed": "no",
-        "share_alike_optional": "yes"
+        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md"
       },
       "operators": [
         {
@@ -370,23 +278,6 @@
           }
         }
       ]
-    },
-    {
-      "id": "f-steamshipauthority~ma~us",
-      "spec": "gtfs",
-      "urls": {
-        "static_historic": [
-          "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/steamshipauthority-ma-us.zip"
-        ]
-      },
-      "license": {
-        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md",
-        "use_without_attribution": "yes",
-        "create_derived_product": "yes",
-        "redistribution_allowed": "yes",
-        "commercial_use_allowed": "no",
-        "share_alike_optional": "yes"
-      }
     },
     {
       "id": "f-tf34-metropolitantransportcorporation",
@@ -411,23 +302,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f-unh~nh~us",
-      "spec": "gtfs",
-      "urls": {
-        "static_historic": [
-          "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/unh-nh-us.zip"
-        ]
-      },
-      "license": {
-        "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md",
-        "use_without_attribution": "yes",
-        "create_derived_product": "yes",
-        "redistribution_allowed": "yes",
-        "commercial_use_allowed": "no",
-        "share_alike_optional": "yes"
-      }
     },
     {
       "id": "f-wcb4-cebu~dotc",
