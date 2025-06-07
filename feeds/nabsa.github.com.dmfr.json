@@ -1619,7 +1619,7 @@
       }
     },
     {
-      "id": "f-citiz~lpa~lyon~gbfs",
+      "id": "f-citiz~métropole~lyon~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://backend.citiz.fr/public/provider/3/gbfs/v3.0/gbfs.json"
@@ -5641,13 +5641,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_pt/gbfs.json"
-      }
-    },
-    {
-      "id": "f-târgu~mures~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://targumures.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
       }
     },
     {
