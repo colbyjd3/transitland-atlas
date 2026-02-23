@@ -30,9 +30,23 @@
             "twitter_service_alerts": "PonyAlerts",
             "us_ntd_id": "30137",
             "wikidata_id": "Q6902179"
-          }
+          },
+          "associated_feeds": [
+            {
+              "feed_onestop_id": "f-dr63-monroecountytransitauthority~rt"
+            }
+          ]
         }
       ]
+    },
+    {
+      "id": "f-dr63-monroecountytransitauthority~rt",
+      "spec": "gtfs-rt",
+      "urls": {
+        "realtime_vehicle_positions": "https://ponytracker.availtec.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition",
+        "realtime_trip_updates": "https://ponytracker.availtec.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate",
+        "realtime_alerts": "https://ponytracker.availtec.com/InfoPoint/gtfs-realtime.ashx?type=alert"
+      }
     }
   ]
 }
