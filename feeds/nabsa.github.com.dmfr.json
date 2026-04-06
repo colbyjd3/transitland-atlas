@@ -5,7 +5,7 @@
       "id": "f-2em~car~sharing~switzerland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/zem_ch/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/zem_ch/gbfs"
       }
     },
     {
@@ -33,7 +33,7 @@
       "id": "f-accès~vélo~saguenay~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://saguenay.publicbikesystem.net/customer/gbfs/v3.0/"
+        "gbfs_auto_discovery": "https://saguenay.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -334,7 +334,7 @@
       "id": "f-bicicoruña~a~coruña~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://acoruna.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://acoruna.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -348,7 +348,7 @@
       "id": "f-bicimad~madrid~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://madrid.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://madrid.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -369,14 +369,14 @@
       "id": "f-bicing~barcelona~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://barcelona-sp.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://barcelona.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bicinrivas~rivas~vaciamadrid~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://rivas.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://rivas.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -418,77 +418,77 @@
       "id": "f-bike~brasilia~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://brasilia.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://brasilia.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bike~chattanooga~tn~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://chat.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://chattanooga.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bike~estácio~curitiba~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://curitiba.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://curitiba.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bike~itaú~pernambuco~recife~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://rec.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://recife.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bike~itaú~rio~de~janeiro~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://riodejaneiro.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://riodejaneiro.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bike~itaú~salvador~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://salvador.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://salvador.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bike~itaú~sampa~são~paulo~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://saopaulo.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://saopaulo.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bike~itaú~santiago~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://santiago.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://santiago.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bike~nordelta~buenos~aires~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://nordelta.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://nordelta.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bike~porto~alegre~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://portoalegre.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://portoalegre.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bike~share~toronto~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://tor.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://toronto.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -523,14 +523,14 @@
       "id": "f-biki~honolulu~hi~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://hon.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://honolulu.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-bilbao~bizi~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://bilbao.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://bilbao.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -1160,7 +1160,7 @@
       "id": "f-bizi~zaragoza~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://zaragoza.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://zaragoza.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -1202,7 +1202,7 @@
       "id": "f-bogotá~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://bogota.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://bogota.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -1346,6 +1346,13 @@
       }
     },
     {
+      "id": "f-brennus~à~vélo~sens~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/sens/en/gbfs.json"
+      }
+    },
+    {
       "id": "f-bre~bike~bremen~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1391,7 +1398,7 @@
       "id": "f-call~a~bike~germany~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/callabike/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/callabike/gbfs"
       }
     },
     {
@@ -1412,14 +1419,14 @@
       "id": "f-capmetro~austin~tx~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://austin.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://austin.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-careem~bike~dubai~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://dubai.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://careem.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -1433,21 +1440,21 @@
       "id": "f-carsharing~renningen~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/oekostadt_renningen/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/oekostadt_renningen/gbfs"
       }
     },
     {
       "id": "f-carvelo~ecargo~bike~sharing~switzerland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/carvelo2go_ch/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/carvelo2go_ch/gbfs"
       }
     },
     {
       "id": "f-car~ship~constance~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/car_ship/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/car_ship/gbfs"
       }
     },
     {
@@ -1752,6 +1759,13 @@
       }
     },
     {
+      "id": "f-conficars~ulm~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/conficars_ulm/gbfs"
+      }
+    },
+    {
       "id": "f-cooltra~barcelona~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1811,7 +1825,7 @@
       "id": "f-c~vélo~clermont~ferrand~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://clermontferrand.publicbikesystem.net/customer/gbfs/v3.0/"
+        "gbfs_auto_discovery": "https://clermontferrand.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -1825,21 +1839,21 @@
       "id": "f-dbizi~donostia~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://sansebastian.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://sansebastian.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-deer~germany~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/deer/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/deer/gbfs"
       }
     },
     {
       "id": "f-dej~velo~city~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://dej.publicbikesystem.net/customer/gbfs/v3.0/"
+        "gbfs_auto_discovery": "https://dej.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -1860,7 +1874,7 @@
       "id": "f-die~grüne~flotte~freiburg~im~breisgau~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/gruene-flotte_freiburg/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/gruene-flotte_freiburg/gbfs"
       }
     },
     {
@@ -4898,7 +4912,7 @@
       "id": "f-ecobici~buenos~aires~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://buenosaires.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://buenosaires.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -4919,7 +4933,7 @@
       "id": "f-edrive~carsharing~switzerland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/edrivecarsharing_ch/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/edrivecarsharing_ch/gbfs"
       }
     },
     {
@@ -5171,7 +5185,7 @@
       "id": "f-flinkster~germany~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/flinkster_carsharing/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/flinkster_carsharing/gbfs"
       }
     },
     {
@@ -5186,6 +5200,27 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/ford_carsharing_autohausbaur/gbfs"
+      }
+    },
+    {
+      "id": "f-ford~carsharing~autohaus~kauderer~eislingen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/ford_carsharing_autohauskauderer/gbfs"
+      }
+    },
+    {
+      "id": "f-franke~freiburg~im~breisgau~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/freibe/gbfs"
+      }
+    },
+    {
+      "id": "f-franke~ludwigsburg~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/lube/gbfs"
       }
     },
     {
@@ -5553,13 +5588,6 @@
       }
     },
     {
-      "id": "f-greenbike~aruba~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://aruba.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
-      }
-    },
-    {
       "id": "f-greenbike~salt~lake~city~ut~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -5616,6 +5644,13 @@
       }
     },
     {
+      "id": "f-hertlein~carsharing~weikersheim~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/hertlein_carsharing/gbfs"
+      }
+    },
+    {
       "id": "f-hertz~bildeling~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -5626,14 +5661,21 @@
       "id": "f-hibike~kona~hi~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://kona.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://kona.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
+      }
+    },
+    {
+      "id": "f-hopp~konstanz~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/hopp_konstanz/gbfs"
       }
     },
     {
       "id": "f-hunedoara~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://hunedoara.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://hunedoara.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -5676,6 +5718,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_pacersbikeshare/gbfs.json"
+      }
+    },
+    {
+      "id": "f-inter~bike~miami~fl~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://miamiunderline.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -5808,7 +5857,7 @@
       "id": "f-lastenvelo~freiburg~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/lastenvelo_fr/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/lastenvelo_fr/gbfs"
       }
     },
     {
@@ -5864,14 +5913,14 @@
       "id": "f-libélo~valence~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://valence.publicbikesystem.net/customer/gbfs/v3.0/"
+        "gbfs_auto_discovery": "https://valence.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-liemobil~liechtenstein~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/liemobil_liechtenstein/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/liemobil_liechtenstein/gbfs"
       }
     },
     {
@@ -5913,7 +5962,7 @@
       "id": "f-lime~basel~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/lime_basel/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_basel/gbfs"
       }
     },
     {
@@ -6120,6 +6169,13 @@
       }
     },
     {
+      "id": "f-lime~stuttgart~konstanz~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_bw/gbfs"
+      }
+    },
+    {
       "id": "f-lime~tel~aviv~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -6130,7 +6186,7 @@
       "id": "f-lime~uster~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/lime_uster/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_uster/gbfs"
       }
     },
     {
@@ -6179,7 +6235,7 @@
       "id": "f-lime~zurich~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/lime_zurich/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_zurich/gbfs"
       }
     },
     {
@@ -6305,7 +6361,7 @@
       "id": "f-mibici~guadalajara~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://guadalajara-mx.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://guadalajara.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -6361,21 +6417,21 @@
       "id": "f-mogo~detroit~mi~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://detroit.publicbikesystem.net/customer/gbfs/v3.0/"
+        "gbfs_auto_discovery": "https://detroit.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-moinesti~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://moinesti.publicbikesystem.net/customer/gbfs/v3.0/"
+        "gbfs_auto_discovery": "https://moinesti.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
       "id": "f-monabike~monaco~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://monaco.publicbikesystem.net/customer/gbfs/v3.0/"
+        "gbfs_auto_discovery": "https://monaco.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -6424,7 +6480,7 @@
       "id": "f-naturenergie~sharing~south~baden~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/naturenergie_sharing/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/naturenergie_sharing/gbfs"
       }
     },
     {
@@ -6956,7 +7012,7 @@
       "id": "f-nike~biketown~beaverton~or~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://nike.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://nike.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -7005,7 +7061,7 @@
       "id": "f-oberschwabenmobil~carsharing~halle~saale~~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/oberschwabenmobil/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/oberschwabenmobil/gbfs"
       }
     },
     {
@@ -7082,7 +7138,7 @@
       "id": "f-pbsc~hq~montreal~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://pbsn.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://pbsn.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -7103,28 +7159,28 @@
       "id": "f-pickebike~aubonne~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/pickebike_aubonne/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/pickebike_aubonne/gbfs"
       }
     },
     {
       "id": "f-pickebike~basel~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/pickebike_basel/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/pickebike_basel/gbfs"
       }
     },
     {
       "id": "f-pickebike~fribourg~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/pickebike_fribourg/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/pickebike_fribourg/gbfs"
       }
     },
     {
       "id": "f-pogoh~pittsburgh~pa~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://pittsburgh.publicbikesystem.net/customer/gbfs/v3.0/"
+        "gbfs_auto_discovery": "https://pittsburgh.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -7313,7 +7369,7 @@
       "id": "f-regioradstuttgart~stuttgart~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/regiorad_stuttgart/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/regiorad_stuttgart/gbfs"
       }
     },
     {
@@ -7341,7 +7397,7 @@
       "id": "f-rivi~bike~largo~dos~coqueiros~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://riviera.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://riviera.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -7481,7 +7537,7 @@
       "id": "f-sbu~wolf~ride~bike~share~stony~brook~ny~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://stonybrook.publicbikesystem.net/customer/gbfs/v3.0/"
+        "gbfs_auto_discovery": "https://stonybrook.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -7530,7 +7586,7 @@
       "id": "f-sibiu~bikecity~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://sibiu.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://sibiu.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -7810,21 +7866,21 @@
       "id": "f-stadtmobil~karlsruhe~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/stadtmobil_karlsruhe/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtmobil_karlsruhe/gbfs"
       }
     },
     {
       "id": "f-stadtmobil~rhein~neckar~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/stadtmobil_rhein-neckar/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtmobil_rhein-neckar/gbfs"
       }
     },
     {
       "id": "f-stadtmobil~stuttgart~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/stadtmobil_stuttgart/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtmobil_stuttgart/gbfs"
       }
     },
     {
@@ -7842,6 +7898,13 @@
       }
     },
     {
+      "id": "f-stadtrad~das~stadtnavi~lastenrad~herrenberg~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/herrenberg_stadtrad/gbfs"
+      }
+    },
+    {
       "id": "f-stadtrad~innsbruck~austria~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -7852,7 +7915,7 @@
       "id": "f-stadtwerk~tauberfranken~germany~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/stadtwerk_tauberfranken/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtwerk_tauberfranken/gbfs"
       }
     },
     {
@@ -7891,24 +7954,31 @@
       }
     },
     {
+      "id": "f-targu~mures~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://targumures.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
+      }
+    },
+    {
       "id": "f-teilauto~biberach~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/teilauto_biberach/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/teilauto_biberach/gbfs"
       }
     },
     {
       "id": "f-teilauto~neckar~alb~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/teilauto_neckar-alb/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/teilauto_neckar-alb/gbfs"
       }
     },
     {
       "id": "f-teilauto~schwäbisch~hall~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/teilauto_schwaebisch_hall/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/teilauto_schwaebisch_hall/gbfs"
       }
     },
     {
@@ -7950,7 +8020,7 @@
       "id": "f-trinity~metro~bikes~fort~worth~tx~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://fortworth.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://fortworth.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -7985,7 +8055,7 @@
       "id": "f-tugo~tucson~az~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://tucson.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://tucson.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -8020,7 +8090,7 @@
       "id": "f-valladolid~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://valladolid.publicbikesystem.net/customer/gbfs/v3.0/"
+        "gbfs_auto_discovery": "https://valladolid.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -8055,7 +8125,7 @@
       "id": "f-velospot~switzerland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/velospot_ch/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/velospot_ch/gbfs"
       }
     },
     {
@@ -8076,7 +8146,7 @@
       "id": "f-velo~sântana~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://santana.publicbikesystem.net/customer/gbfs/v3.0/"
+        "gbfs_auto_discovery": "https://santana.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -8440,7 +8510,7 @@
       "id": "f-voi~germany~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/voi_de/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/voi_de/gbfs"
       }
     },
     {
@@ -8510,7 +8580,7 @@
       "id": "f-voi~switzerland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/voi_ch/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/voi_ch/gbfs"
       }
     },
     {
@@ -8706,7 +8776,7 @@
       "id": "f-we~cycle~aspen~co~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://aspen.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://aspen.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
@@ -8790,7 +8860,7 @@
       "id": "f-zeo~carsharing~bruchsal~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/zeo_bruchsal/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/zeo_bruchsal/gbfs"
       }
     },
     {
@@ -9119,7 +9189,7 @@
       "id": "f-àvélo~ville~de~québec~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://quebec.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://quebec.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
       }
     },
     {
