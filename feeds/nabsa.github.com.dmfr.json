@@ -5686,6 +5686,13 @@
       }
     },
     {
+      "id": "f-hopp~konstanz~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/hopp_konstanz/gbfs"
+      }
+    },
+    {
       "id": "f-hunedoara~gbfs",
       "spec": "gbfs",
       "urls": {
